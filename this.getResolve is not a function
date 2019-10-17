@@ -1,0 +1,4 @@
+报错：this.getResolve is not a function
+原因：sass-loader版本过高，降为7.3.1，执行npm i 再重新启动项目就可以了
+
+"sass-loader": "^7.3.1",
